@@ -1,0 +1,10 @@
+.productsContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.padd-20 {
+    padding: 20px;
+}
